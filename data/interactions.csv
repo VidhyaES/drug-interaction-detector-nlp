@@ -1,0 +1,102 @@
+drug1_normalized,drug2_normalized,severity,description,reference
+warfarin,aspirin,major,"Increased bleeding risk",DrugBank
+warfarin,paracetamol,major,"Increased bleeding risk (especially high doses)",DrugBank
+warfarin,ibuprofen,major,"Significant GI bleed + anticoagulation risk",DrugBank
+warfarin,clopidogrel,major,"Increased bleeding risk",Liverpool
+warfarin,amoxicillin,moderate,"Potential increased INR",DrugBank
+warfarin,ciprofloxacin,major,"Increased anticoagulation effect",DrugBank
+warfarin,metronidazole,major,"Increased INR → bleeding risk",DrugBank
+warfarin,levofloxacin,major,"Increased INR",DrugBank
+warfarin,aspirin,major,"Significant increase in bleeding risk",DrugBank
+warfarin,ibuprofen,major,"Increased bleeding risk (NSAID effect)",DrugBank
+metformin,alcohol,major,"High risk of lactic acidosis",OpenFDA
+metformin,cimetidine,moderate,"Increased metformin levels → hypoglycemia risk",DrugBank
+pantoprazole,clopidogrel,moderate,"Reduced clopidogrel activation (CYP2C19 inhibition)",Liverpool
+atorvastatin,grapefruit juice,moderate,"Increased statin exposure → myopathy risk",DrugBank
+atorvastatin,clarithromycin,major,"Severe myopathy/rhabdomyolysis risk (CYP3A4 inhibition)",DrugBank
+levothyroxine,iron supplements,major,"Reduced levothyroxine absorption",Common
+levothyroxine,calcium carbonate,major,"Reduced absorption",Common
+amoxicillin,probenecid,moderate,"Increased amoxicillin levels",DrugBank
+ciprofloxacin,theophylline,major,"Increased theophylline toxicity",DrugBank
+ciprofloxacin,tizanidine,major,"Severe hypotension/sedation",DrugBank
+paracetamol,alcohol,major,"Increased hepatotoxicity",Common
+paracetamol,isoniazid,major,"Increased liver damage risk",DrugBank
+glimepiride,alcohol,major,"Severe hypoglycemia",Common
+glimepiride,rifampicin,major,"Reduced glimepiride efficacy",DrugBank
+amlodipine,simvastatin,major,"Increased simvastatin exposure → myopathy",DrugBank
+losartan,spironolactone,major,"Hyperkalemia risk",DrugBank
+losartan,potassium supplements,major,"Hyperkalemia",DrugBank
+telmisartan,spironolactone,major,"Hyperkalemia risk",DrugBank
+bisoprolol,verapamil,major,"Severe bradycardia/AV block",DrugBank
+clopidogrel,omeprazole,major,"Reduced antiplatelet effect",Liverpool
+clopidogrel,esomeprazole,major,"Reduced antiplatelet effect",Liverpool
+azithromycin,amiodarone,major,"QT prolongation → torsades risk",DrugBank
+ondansetron,amiodarone,major,"QT prolongation",DrugBank
+domperidone,ketoconazole,major,"QT prolongation → torsades",DrugBank
+ranitidine,procainamide,major,"Increased procainamide levels",DrugBank
+rabeprazole,clopidogrel,moderate,"Reduced clopidogrel effect",Liverpool
+pioglitazone,gemfibrozil,major,"Increased pioglitazone exposure → edema/heart failure risk",DrugBank
+hydrochlorothiazide,lithium,major,"Increased lithium toxicity",DrugBank
+warfarin,aspirin,major,"Significant increase in bleeding risk",DrugBank
+warfarin,ibuprofen,major,"Increased bleeding risk (NSAID effect)",DrugBank
+metformin,alcohol,major,"High risk of lactic acidosis",OpenFDA
+pantoprazole,clopidogrel,moderate,"Reduced clopidogrel activation (CYP2C19 inhibition)",Liverpool
+atorvastatin,clarithromycin,major,"Severe myopathy/rhabdomyolysis risk",DrugBank
+levothyroxine,iron supplements,major,"Reduced levothyroxine absorption",Common
+amoxicillin,probenecid,moderate,"Increased amoxicillin levels",DrugBank
+ciprofloxacin,tizanidine,major,"Severe hypotension/sedation",DrugBank
+paracetamol,alcohol,major,"Increased hepatotoxicity",Common
+glimepiride,alcohol,major,"Severe hypoglycemia",Common
+amlodipine,simvastatin,major,"Increased simvastatin exposure → myopathy",DrugBank
+losartan,spironolactone,major,"Hyperkalemia risk",DrugBank
+telmisartan,spironolactone,major,"Hyperkalemia risk",DrugBank
+clopidogrel,omeprazole,major,"Reduced antiplatelet effect",Liverpool
+azithromycin,amiodarone,major,"QT prolongation → torsades risk",DrugBank
+ondansetron,amiodarone,major,"QT prolongation",DrugBank
+domperidone,erythromycin,major,"QT prolongation",DrugBank
+ranitidine,procainamide,major,"Increased procainamide levels",DrugBank
+pioglitazone,gemfibrozil,major,"Increased pioglitazone exposure → edema/heart failure risk",DrugBank
+hydrochlorothiazide,lithium,major,"Increased lithium toxicity",DrugBank
+ibuprofen,enalapril,moderate,"Reduced antihypertensive effect + kidney risk",Common
+aspirin,ibuprofen,major,"Reduced antiplatelet effect + GI bleed risk",DrugBank
+metformin,iodinated contrast,major,"Risk of lactic acidosis in renal impairment",OpenFDA
+pantoprazole,atazanavir,major,"Reduced atazanavir absorption",Liverpool
+atorvastatin,erythromycin,moderate,"Increased statin exposure",DrugBank
+glimepiride,gemfibrozil,moderate,"Increased hypoglycemia risk",DrugBank
+levothyroxine,soy products,moderate,"Reduced absorption",Common
+ciprofloxacin,warfarin,major,"Increased anticoagulation effect",DrugBank
+amoxicillin,allopurinol,major,"Increased risk of rash",DrugBank
+warfarin,fluoxetine,major,"Increased bleeding risk due to platelet inhibition",DrugBank
+warfarin,trimethoprim-sulfamethoxazole,major,"Marked INR elevation and bleeding risk",DrugBank
+dabigatran,ketoconazole,major,"Increased anticoagulant exposure",DrugBank
+rivaroxaban,ritonavir,major,"Increased bleeding risk via CYP3A4 inhibition",DrugBank
+clopidogrel,fluvoxamine,moderate,"Reduced antiplatelet activation",DrugBank
+ticagrelor,clarithromycin,major,"Increased ticagrelor exposure → bleeding risk",DrugBank
+metformin,topiramate,moderate,"Risk of metabolic acidosis",DrugBank
+metformin,ranolazine,moderate,"Increased metformin plasma concentration",DrugBank
+insulin,ACE inhibitors,moderate,"Enhanced hypoglycemic effect",Common
+glyburide,fluconazole,major,"Severe hypoglycemia risk",DrugBank
+pioglitazone,ketoconazole,moderate,"Increased pioglitazone levels",DrugBank
+atorvastatin,cyclosporine,major,"Marked increase in statin exposure",DrugBank
+simvastatin,ritonavir,major,"Rhabdomyolysis risk",DrugBank
+pravastatin,gemfibrozil,major,"Increased myopathy risk",DrugBank
+digoxin,clarithromycin,major,"Digoxin toxicity due to reduced clearance",DrugBank
+digoxin,itraconazole,major,"Elevated digoxin levels",DrugBank
+furosemide,lithium,major,"Increased lithium toxicity",DrugBank
+spironolactone,trimethoprim,major,"Severe hyperkalemia risk",DrugBank
+enalapril,potassium chloride,major,"Life-threatening hyperkalemia",DrugBank
+theophylline,ciprofibrate,moderate,"Reduced theophylline clearance",DrugBank
+carbamazepine,grapefruit juice,moderate,"Increased carbamazepine levels",DrugBank
+phenytoin,fluconazole,major,"Increased phenytoin toxicity",DrugBank
+valproate,topiramate,major,"Hyperammonemia risk",DrugBank
+lamotrigine,oral contraceptives,moderate,"Reduced lamotrigine effectiveness",DrugBank
+benzodiazepines,alcohol,major,"Profound CNS and respiratory depression",FDA
+tramadol,bupropion,major,"Increased seizure risk",FDA
+linezolid,tricyclic antidepressants,major,"Serotonin syndrome risk",FDA
+ondansetron,citalopram,major,"QT prolongation risk",DrugBank
+haloperidol,erythromycin,major,"Severe QT prolongation",DrugBank
+methotrexate,penicillins,moderate,"Reduced methotrexate clearance",DrugBank
+cyclosporine,clarithromycin,major,"Nephrotoxicity due to elevated levels",DrugBank
+tacrolimus,erythromycin,major,"Increased tacrolimus exposure",DrugBank
+levodopa,metoclopramide,major,"Reduced antiparkinsonian effect",Common
+oral contraceptives,topiramate,major,"Reduced contraceptive efficacy",DrugBank
